@@ -1,0 +1,22 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "landing page for async exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-HernandezM/async-landing.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Juan Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-HernandezM/async-landing/issues"
+  },
+  "homepage": "https://github.com/J-HernandezM/async-landing#readme"
+}
